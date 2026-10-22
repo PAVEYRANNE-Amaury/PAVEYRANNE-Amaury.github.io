@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Amaury Paveyranne",
+    "section": "",
+    "text": "Biophysicien de formation, avec un fort ancrage en physique statistique. Ce blog rassemble de petits projets reproductibles sur données publiques : modèles minimaux, inférence bayésienne, et ce qu’ils révèlent des systèmes biologiques.\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amaury Paveyranne",
+    "section": "",
+    "text": "I am a biophysicist trained in statistical physics. This blog collects small, reproducible projects on public data: minimal models, Bayesian inference, and what they reveal about biological systems.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,20 +33,6 @@
     "title": "About",
     "section": "This site",
     "text": "This site\nEach post is a self-contained project on public data, with its code on GitHub."
-  },
-  {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
-    "title": "Amaury Paveyranne",
-    "section": "",
-    "text": "Biophysicien de formation, avec un fort ancrage en physique statistique. Ce blog rassemble de petits projets reproductibles sur données publiques : modèles minimaux, inférence bayésienne, et ce qu’ils révèlent des systèmes biologiques.\n\n\n\n\n\n\n\n\nAucun article correspondant"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amaury Paveyranne",
-    "section": "",
-    "text": "I am a biophysicist trained in statistical physics. This blog collects small, reproducible projects on public data: minimal models, Bayesian inference, and what they reveal about biological systems.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "fr/about.html",
