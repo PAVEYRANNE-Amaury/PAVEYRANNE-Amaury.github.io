@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "fr/about.html",
+    "href": "fr/about.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Je suis biophysicien, formé à la physique et à la physique statistique. J’ai soutenu ma thèse en 2025 à l’ESPCI Paris (Gulliver) et à Sorbonne Université (LJP), sous la direction de Clément Nizak et Olivier Rivoire. Intitulée Statistical design of specificity in S1A serine proteases, elle associait un criblage microfluidique à haut débit de mutants de la trypsine et une modélisation statistique : analyse de données de séquençage profond (Illumina, Nanopore), modèles cinétiques et bayésiens des expériences de tri, et tests expérimentaux des prédictions de modèles de Potts.\nJe m’intéresse aux modèles simples mais puissants appliqués à des données biologiques complexes : physique statistique des séquences et de l’évolution, écologie quantitative, inférence bayésienne et apprentissage automatique interprétable."
+  },
+  {
+    "objectID": "fr/about.html#formation",
+    "href": "fr/about.html#formation",
+    "title": "À propos",
+    "section": "Formation",
+    "text": "Formation\n\nDoctorat de physique, ESPCI Paris / Sorbonne Université (2025)\nM2 Biological Systems: Physical Concepts, Université Paris-Saclay (2022)\nDiplômes d’ingénieur ESPCI Paris et Institut d’Optique (2022)"
+  },
+  {
+    "objectID": "fr/about.html#ce-site",
+    "href": "fr/about.html#ce-site",
+    "title": "À propos",
+    "section": "Ce site",
+    "text": "Ce site\nChaque billet est un projet autonome sur données publiques, avec son code sur GitHub."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a biophysicist trained in physics and statistical physics. I defended my PhD in 2025 at ESPCI Paris (Gulliver) and Sorbonne Université (LJP), supervised by Clément Nizak and Olivier Rivoire. My thesis, Statistical design of specificity in S1A serine proteases, combined high-throughput microfluidic screening of trypsin mutants with statistical modelling: analysis of deep-sequencing data (Illumina, Nanopore), kinetic and Bayesian models of sorting experiments, and experimental tests of Potts-model predictions.\nI am interested in simple yet powerful models applied to complex biological data: statistical physics of sequences and evolution, quantitative ecology, Bayesian inference and interpretable machine learning."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPhD in Physics, ESPCI Paris / Sorbonne Université (2025)\nMSc Biological Systems: Physical Concepts, Université Paris-Saclay (2022)\nEngineering degrees, ESPCI Paris and Institut d’Optique (2022)"
+  },
+  {
+    "objectID": "about.html#this-site",
+    "href": "about.html#this-site",
+    "title": "About",
+    "section": "This site",
+    "text": "This site\nEach post is a self-contained project on public data, with its code on GitHub."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amaury Paveyranne",
+    "section": "",
+    "text": "I am a biophysicist trained in statistical physics. This blog collects small, reproducible projects on public data: minimal models, Bayesian inference, and what they reveal about biological systems.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Amaury Paveyranne",
+    "section": "",
+    "text": "Biophysicien de formation, avec un fort ancrage en physique statistique. Ce blog rassemble de petits projets reproductibles sur données publiques : modèles minimaux, inférence bayésienne, et ce qu’ils révèlent des systèmes biologiques.\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  }
+]
