@@ -1,0 +1,37 @@
+---
+title: "À propos"
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/PAVEYRANNE-Amaury
+    - icon: envelope
+      text: Email
+      href: "mailto:amaury.paveyranne@pm.me"
+---
+
+Je suis biophysicien, formé à la physique et à la physique statistique. J'ai
+soutenu ma thèse en 2025 à l'ESPCI Paris (Gulliver) et à Sorbonne Université
+(LJP), sous la direction de Clément Nizak et Olivier Rivoire. Intitulée
+*Statistical design of specificity in S1A serine proteases*, elle associait un
+criblage microfluidique à haut débit de mutants de la trypsine et une
+modélisation statistique : analyse de données de séquençage profond (Illumina,
+Nanopore), modèles cinétiques et bayésiens des expériences de tri, et tests
+expérimentaux des prédictions de modèles de Potts.
+
+Je m'intéresse aux modèles simples mais puissants appliqués à des données
+biologiques complexes : physique statistique des séquences et de l'évolution,
+écologie quantitative, inférence bayésienne et apprentissage automatique
+interprétable.
+
+## Formation
+
+- Doctorat de physique, ESPCI Paris / Sorbonne Université (2025)
+- M2 Biological Systems: Physical Concepts, Université Paris-Saclay (2022)
+- Diplômes d'ingénieur ESPCI Paris et Institut d'Optique (2022)
+
+## Ce site
+
+Chaque billet est un projet autonome sur données publiques, avec son code sur GitHub.

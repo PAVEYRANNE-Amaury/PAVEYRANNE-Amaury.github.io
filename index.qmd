@@ -1,0 +1,16 @@
+---
+title: "Amaury Paveyranne"
+subtitle: "Biophysics · Statistical inference · Evolution"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+---
+
+I am a biophysicist trained in statistical physics. This blog collects small,
+reproducible projects on public data: minimal models, Bayesian inference,
+and what they reveal about biological systems.
+
+

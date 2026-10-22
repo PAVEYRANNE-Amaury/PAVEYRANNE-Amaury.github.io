@@ -1,0 +1,14 @@
+---
+title: "Amaury Paveyranne"
+subtitle: "Biophysique · Inférence statistique · Évolution"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+---
+
+Biophysicien de formation, avec un fort ancrage en physique statistique. Ce blog
+rassemble de petits projets reproductibles sur données publiques : modèles
+minimaux, inférence bayésienne, et ce qu'ils révèlent des systèmes biologiques.

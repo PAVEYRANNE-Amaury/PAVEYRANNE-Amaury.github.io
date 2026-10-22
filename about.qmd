@@ -1,0 +1,35 @@
+---
+title: "About"
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/PAVEYRANNE-Amaury
+    - icon: envelope
+      text: Email
+      href: "mailto:amaury.paveyranne@pm.me"
+---
+
+I am a biophysicist trained in physics and statistical physics. I defended my PhD
+in 2025 at ESPCI Paris (Gulliver) and Sorbonne Université (LJP), supervised by
+Clément Nizak and Olivier Rivoire. My thesis, *Statistical design of specificity
+in S1A serine proteases*, combined high-throughput microfluidic screening of
+trypsin mutants with statistical modelling: analysis of deep-sequencing data
+(Illumina, Nanopore), kinetic and Bayesian models of sorting experiments, and
+experimental tests of Potts-model predictions.
+
+I am interested in simple yet powerful models applied to complex biological
+data: statistical physics of sequences and evolution, quantitative ecology,
+Bayesian inference and interpretable machine learning.
+
+## Education
+
+- PhD in Physics, ESPCI Paris / Sorbonne Université (2025)
+- MSc Biological Systems: Physical Concepts, Université Paris-Saclay (2022)
+- Engineering degrees, ESPCI Paris and Institut d'Optique (2022)
+
+## This site
+
+Each post is a self-contained project on public data, with its code on GitHub.

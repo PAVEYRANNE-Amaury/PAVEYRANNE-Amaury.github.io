@@ -1,0 +1,51 @@
+<script>
+    const DEFAULT_LANG = "en";
+    const LANGS = ["en", "fr"];
+    // Libellés de la barre, indexés par le libellé anglais
+    const I18N = {
+        fr: {
+            "Blog": "Blog",
+            "About": "À propos",
+            "404.title": "Page introuvable",
+            "404.text": "Cette page n'existe pas en français : elle n'est peut-être pas encore traduite.",
+            "404.original": "Lire la version originale (anglais)",
+            "404.home": "Accueil"
+        }
+    };
+    
+    function currentLang(path) {
+      const m = path.match(/^\/([a-z]{2})(\/|$)/);
+      return (m && LANGS.includes(m[1]) && m[1] !== DEFAULT_LANG) ? m[1] : DEFAULT_LANG;
+    }
+    function stripLang(path, lang) {
+      return lang === DEFAULT_LANG ? path : (path.slice(lang.length + 1) || "/");
+    }
+    function withLang(path, lang) {
+      return lang === DEFAULT_LANG ? path : "/" + lang + path;
+    }
+    
+    document.addEventListener("DOMContentLoaded", () => {
+      const cur = currentLang(window.location.pathname);
+      const base = stripLang(window.location.pathname, cur);
+    
+      // 1. Sélecteur de langue (inchangé, sauf le marqueur data-lang)
+      document.querySelectorAll('a[href*="#lang="]').forEach(a => {
+        const lang = a.getAttribute("href").split("#lang=")[1];
+        a.dataset.lang = lang;
+        a.href = withLang(base, lang);
+        if (lang === cur) a.classList.add("active");
+      });
+    
+      // 2. Liens internes de la barre → version dans la langue courante
+      if (cur === DEFAULT_LANG) return;
+      document.querySelectorAll('.navbar a[href]').forEach(a => {
+        if (a.dataset.lang) return;
+        const url = new URL(a.href);
+        if (url.origin !== window.location.origin) return;
+        a.href = withLang(url.pathname, cur);
+        const label = a.querySelector(".menu-text");
+        const t = label && I18N[cur]?.[label.textContent.trim()];
+        if (t) label.textContent = t;
+      });
+    });
+</script>
