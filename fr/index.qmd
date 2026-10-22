@@ -9,6 +9,4 @@ listing:
 page-layout: full
 ---
 
-Biophysicien de formation, avec un fort ancrage en physique statistique. Ce blog
-rassemble de petits projets reproductibles sur données publiques : modèles
-minimaux, inférence bayésienne, et ce qu'ils révèlent des systèmes biologiques.
+De petits projets nés d'une question qui m'a trotté dans la tête. Des données publiques, des modèles simples, de l'inférence bayésienne, et un regard honnête sur ce que les données disent

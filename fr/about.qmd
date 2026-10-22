@@ -12,19 +12,9 @@ about:
       href: "mailto:amaury.paveyranne@pm.me"
 ---
 
-Je suis biophysicien, formé à la physique et à la physique statistique. J'ai
-soutenu ma thèse en 2025 à l'ESPCI Paris (Gulliver) et à Sorbonne Université
-(LJP), sous la direction de Clément Nizak et Olivier Rivoire. Intitulée
-*Statistical design of specificity in S1A serine proteases*, elle associait un
-criblage microfluidique à haut débit de mutants de la trypsine et une
-modélisation statistique : analyse de données de séquençage profond (Illumina,
-Nanopore), modèles cinétiques et bayésiens des expériences de tri, et tests
-expérimentaux des prédictions de modèles de Potts.
+Pendant ma thèse, soutenue en 2025 à l'ESPCI Paris et à Sorbonne Université avec Clément Nizak et Olivier Rivoire, je me suis demandé ce qui fait qu'une enzyme coupe certaines cibles plutôt que d'autres. Concrètement : des bibliothèques de mutants de la trypsine triées dans des gouttelettes microfluidiques, beaucoup de séquençage (Illumina et Nanopore), des modèles cinétiques et bayésiens pour comprendre ce qui se passait pendant le tri, et quelques prédictions de modèles de Potts mises à l'épreuve de l'expérience.
 
-Je m'intéresse aux modèles simples mais puissants appliqués à des données
-biologiques complexes : physique statistique des séquences et de l'évolution,
-écologie quantitative, inférence bayésienne et apprentissage automatique
-interprétable.
+Sur ce site se trouvent de petits projets nés d'une question qui m'a trotté dans la tête : je trouve des données publiques, j'écris le modèle le plus simple qui tienne debout, et je regarde ce qu'en disent l'inférence bayésienne ou un peu d'apprentissage automatique. Parfois le modèle s'en sort bien, parfois les données le contredisent. Dans les deux cas, j'apprends quelque chose, et le code est sur GitHub.
 
 ## Formation
 

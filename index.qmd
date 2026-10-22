@@ -9,8 +9,6 @@ listing:
 page-layout: full
 ---
 
-I am a biophysicist trained in statistical physics. This blog collects small,
-reproducible projects on public data: minimal models, Bayesian inference,
-and what they reveal about biological systems.
+Small projects that started with a question I couldn't let go of. Public data, simple models, Bayesian inference, and an honest look at what the data can (and can't) tell us.
 
 
