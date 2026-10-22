@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://paveyranne-amaury.github.io/fr/about.html</loc>
-    <lastmod>2026-10-22T12:55:36.834Z</lastmod>
-  </url>
-  <url>
     <loc>https://paveyranne-amaury.github.io/about.html</loc>
-    <lastmod>2026-10-22T12:55:36.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://paveyranne-amaury.github.io/index.html</loc>
-    <lastmod>2026-10-22T12:55:36.836Z</lastmod>
+    <lastmod>2026-10-22T13:10:19.641Z</lastmod>
   </url>
   <url>
     <loc>https://paveyranne-amaury.github.io/fr/index.html</loc>
-    <lastmod>2026-10-22T12:55:36.835Z</lastmod>
+    <lastmod>2026-10-22T13:10:19.641Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paveyranne-amaury.github.io/index.html</loc>
+    <lastmod>2026-10-22T13:10:19.641Z</lastmod>
+  </url>
+  <url>
+    <loc>https://paveyranne-amaury.github.io/fr/about.html</loc>
+    <lastmod>2026-10-22T13:10:19.641Z</lastmod>
   </url>
 </urlset>
