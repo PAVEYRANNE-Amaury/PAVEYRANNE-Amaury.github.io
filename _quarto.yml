@@ -24,8 +24,9 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: [cosmo, theme-common.scss, theme-light.scss]
+      dark: [darkly, theme-common.scss, theme-dark.scss]
+    respect-user-color-scheme: true
     css: styles.css
     include-after-body: lang-switch.html
 

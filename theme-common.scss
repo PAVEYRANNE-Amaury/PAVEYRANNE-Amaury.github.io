@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&family=JetBrains+Mono&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap');
+
+$font-family-sans-serif: "Source Serif 4", Georgia, serif;
+$headings-font-family: "IBM Plex Sans", system-ui, sans-serif;
+$font-family-monospace: "JetBrains Mono", SFMono-Regular, Menlo, monospace;
+$line-height-base: 1.65;
+
+/*-- scss:rules --*/
+.navbar, .quarto-title-meta, .listing-categories, #TOC {
+  font-family: $headings-font-family;
+}
+a {
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+}
+h1.title {
+  letter-spacing: -0.01em;
+}
