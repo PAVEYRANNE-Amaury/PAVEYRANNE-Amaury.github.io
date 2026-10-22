@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "fr/index.html",
-    "href": "fr/index.html",
-    "title": "Amaury Paveyranne",
-    "section": "",
-    "text": "Biophysicien de formation, avec un fort ancrage en physique statistique. Ce blog rassemble de petits projets reproductibles sur données publiques : modèles minimaux, inférence bayésienne, et ce qu’ils révèlent des systèmes biologiques.\n\n\n\n\n\n\n\n\nAucun article correspondant"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Amaury Paveyranne",
-    "section": "",
-    "text": "I am a biophysicist trained in statistical physics. This blog collects small, reproducible projects on public data: minimal models, Bayesian inference, and what they reveal about biological systems.\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a biophysicist trained in physics and statistical physics. I defended my PhD in 2025 at ESPCI Paris (Gulliver) and Sorbonne Université (LJP), supervised by Clément Nizak and Olivier Rivoire. My thesis, Statistical design of specificity in S1A serine proteases, combined high-throughput microfluidic screening of trypsin mutants with statistical modelling: analysis of deep-sequencing data (Illumina, Nanopore), kinetic and Bayesian models of sorting experiments, and experimental tests of Potts-model predictions.\nI am interested in simple yet powerful models applied to complex biological data: statistical physics of sequences and evolution, quantitative ecology, Bayesian inference and interpretable machine learning."
+    "text": "During my PhD, defended in 2025 at ESPCI Paris and Sorbonne Université with Clément Nizak and Olivier Rivoire, I tried to understand what makes an enzyme cut some targets and not others. In practice: libraries of trypsin mutants sorted in microfluidic droplets, a lot of sequencing (Illumina and Nanopore), kinetic and Bayesian models to make sense of what happened during sorting, and a few Potts-model predictions put to the experimental test.\nThis site collects small projects that started with a question I couldn’t stop thinking about: I find public data, write the simplest model that holds up, and see what Bayesian inference (or a bit of machine learning) has to say about it. Sometimes the model does well, sometimes the data prove it wrong. Either way I learn something, and the code is on GitHub."
   },
   {
     "objectID": "about.html#education",
@@ -35,11 +21,25 @@
     "text": "This site\nEach post is a self-contained project on public data, with its code on GitHub."
   },
   {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
+    "title": "Amaury Paveyranne",
+    "section": "",
+    "text": "De petits projets nés d’une question qui m’a trotté dans la tête. Des données publiques, des modèles simples, de l’inférence bayésienne, et un regard honnête sur ce que les données disent\n\n\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amaury Paveyranne",
+    "section": "",
+    "text": "Small projects that started with a question I couldn’t let go of. Public data, simple models, Bayesian inference, and an honest look at what the data can (and can’t) tell us.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "fr/about.html",
     "href": "fr/about.html",
     "title": "À propos",
     "section": "",
-    "text": "Je suis biophysicien, formé à la physique et à la physique statistique. J’ai soutenu ma thèse en 2025 à l’ESPCI Paris (Gulliver) et à Sorbonne Université (LJP), sous la direction de Clément Nizak et Olivier Rivoire. Intitulée Statistical design of specificity in S1A serine proteases, elle associait un criblage microfluidique à haut débit de mutants de la trypsine et une modélisation statistique : analyse de données de séquençage profond (Illumina, Nanopore), modèles cinétiques et bayésiens des expériences de tri, et tests expérimentaux des prédictions de modèles de Potts.\nJe m’intéresse aux modèles simples mais puissants appliqués à des données biologiques complexes : physique statistique des séquences et de l’évolution, écologie quantitative, inférence bayésienne et apprentissage automatique interprétable."
+    "text": "Pendant ma thèse, soutenue en 2025 à l’ESPCI Paris et à Sorbonne Université avec Clément Nizak et Olivier Rivoire, je me suis demandé ce qui fait qu’une enzyme coupe certaines cibles plutôt que d’autres. Concrètement : des bibliothèques de mutants de la trypsine triées dans des gouttelettes microfluidiques, beaucoup de séquençage (Illumina et Nanopore), des modèles cinétiques et bayésiens pour comprendre ce qui se passait pendant le tri, et quelques prédictions de modèles de Potts mises à l’épreuve de l’expérience.\nSur ce site se trouvent de petits projets nés d’une question qui m’a trotté dans la tête : je trouve des données publiques, j’écris le modèle le plus simple qui tienne debout, et je regarde ce qu’en disent l’inférence bayésienne ou un peu d’apprentissage automatique. Parfois le modèle s’en sort bien, parfois les données le contredisent. Dans les deux cas, j’apprends quelque chose, et le code est sur GitHub."
   },
   {
     "objectID": "fr/about.html#formation",
